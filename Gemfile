@@ -12,6 +12,7 @@ gem 'rails-controller-testing'
 
 group :development, :test do
   gem 'pry'
+  gem 'pry-byebug'
 end
 
 group :development do
